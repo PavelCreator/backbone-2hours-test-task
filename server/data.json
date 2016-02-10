@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Report 1",
+    "description": "Very cool report 1",
+    "type": "chart",
+    "data": [
+      1589,
+      2474,
+      4758,
+      4342,
+      1245
+    ]
+  },
+  {
+    "name": "Report 2",
+    "description": "Very cool report 2",
+    "type": "tabular",
+    "data": [
+      4571,
+      7864,
+      1567,
+      9874,
+      8596
+    ]
+  },
+  {
+    "name": "Report 3",
+    "description": "Very cool report 3",
+    "type": "tabular",
+    "data": [
+      6457,
+      9864,
+      2567,
+      9874,
+      3596
+    ]
+  },
+  {
+    "name": "Report 4",
+    "description": "Very cool report 4",
+    "type": "tabular",
+    "data": [
+      1457,
+      2864,
+      3567,
+      4874,
+      5596
+    ]
+  },
+  {
+    "name": "Report 5",
+    "description": "Very cool report 5",
+    "type": "tabular",
+    "data": [
+      7457,
+      6864,
+      5567,
+      4874,
+      3596
+    ]
+  },
+  {
+    "name": "Report 6",
+    "description": "Very cool report 6",
+    "type": "tabular",
+    "data": [
+      2457,
+      3864,
+      4567,
+      5874,
+      6596
+    ]
+  },
+  {
+    "name": "Report 7",
+    "description": "Very cool report 7",
+    "type": "tabular",
+    "data": [
+      4457,
+      2864,
+      5567,
+      3874,
+      8596
+    ]
+  },
+  {
+    "name": "Report 7",
+    "description": "Very cool report 7",
+    "type": "tabular",
+    "data": [
+      6457,
+      7864,
+      8567,
+      9874,
+      4596
+    ]
+  },
+  {
+    "name": "Report 8",
+    "description": "Very cool report 8",
+    "type": "tabular",
+    "data": [
+      3457,
+      6864,
+      4667,
+      8874,
+      1596
+    ]
+  },
+  {
+    "name": "Report 9",
+    "description": "Very cool report 9",
+    "type": "tabular",
+    "data": [
+      4257,
+      8264,
+      6467,
+      8714,
+      5496
+    ]
+  },
+  {
+    "name": "Report 10",
+    "description": "Very cool report 10",
+    "type": "tabular",
+    "data": [
+      4517,
+      8634,
+      6678,
+      8174,
+      5296
+    ]
+  }
+]
